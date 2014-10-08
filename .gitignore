@@ -21,6 +21,12 @@ $RECYCLE.BIN/
 # OSX
 # =========================
 
+Doc/_build/*
+Doc/_static/*
+Doc/_templates/*
+
+*.pyc
+
 .DS_Store
 .AppleDouble
 .LSOverride
